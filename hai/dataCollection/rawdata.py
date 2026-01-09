@@ -44,3 +44,6 @@ print("Train samples:", X_train.shape[0], "Test samples:", X_test.shape[0])
 out_csv = Path("montreal_condo_hpi_sa_clean.csv")
 series.to_csv(out_csv, index=False)
 print("Saved cleaned series to:", out_csv.resolve())
+
+
+

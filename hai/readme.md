@@ -14,6 +14,11 @@ Condominiums	               51%	                    59 days
 Single-family homes	           26%	                    52 days
 Plexs	                       23%	                    59 days
 
+## Data
+
+- we get it from CREA report
+- Test the data to make sure it has underlying pattern : using MAE and RMSE
+
 
 ## Implementation : 
 
